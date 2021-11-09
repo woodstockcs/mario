@@ -10,8 +10,7 @@ body {
 }
 
 .panel {
-    min-width: 100px;
-    width: 400px;
+    width: 300px;
 }
 
 header {
